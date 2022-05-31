@@ -1,3 +1,4 @@
-print('Meu primeiro Git Loko')
-a= 5 + 1 +2
+print('Meu primeiro Git Fork')
+a= 5 + 1 +2 + 10
 #essas duas linhas sao novas
+#add o 10 e mais essa linha
